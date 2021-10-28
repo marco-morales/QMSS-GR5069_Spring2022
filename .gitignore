@@ -1,0 +1,15 @@
+# OS generated files #
+*.DS_Store
+
+# History files
+*.Rhistory
+*.Rapp.history
+
+# Session Data files
+*.RData
+
+# RStudio files
+*.Rproj.user/
+
+# here() markers
+*.here
