@@ -40,14 +40,13 @@ It is assumed that students have basic to intermediate knowledge of object-orien
 
 ## Course Resources
 
-There are no required textbooks for this course. The course will rely on a combination of curated reading materials, recorded lectures, in-class workshops and take-home exercises that will leverage the following tools:
-* __Canvas__
-* __GitHub / GitHub classroom__
+There are no required textbooks for this course. The course will rely on a combination of curated reading materials, in-class workshops and take-home exercises that will leverage the following tools:
 * __Slack__
+* __GitHub / GitHub classroom__
 * __AWS Educate__
 * __Databricks__
 
-Registered students will receive instructions through **Canvas** to access to the weekly **Zoom** session, **Flipgrid**, __GitHub classroom__, __Slack__, __AWS Educate__, and __Databricks__.
+Registered students will receive instructions to access __GitHub classroom__, __Slack__, __AWS Educate__, and __Databricks__.
 
 ## To actively participate on this course
 
@@ -58,7 +57,7 @@ Make sure to have the latest versions of [__R__](https://www.r-project.org/)/[__
 
 1. install [**git**](https://git-scm.com/downloads) in your local machine
 
-2. from the command line, got to the directory where you want to clone this repo
+2. from the command line, go to the directory where you want to clone this repo
 
 	```
 	$ cd <dir>
@@ -67,13 +66,13 @@ Make sure to have the latest versions of [__R__](https://www.r-project.org/)/[__
 3. `clone` this repository to get a local copy in your machine
 
 	```
-	$ git clone https://github.com/marco-morales/QMSS-GR5069_Spring2021.git
+	$ git clone https://github.com/marco-morales/QMSS-GR5069_Spring2022.git
 	```
 
-4. `pull` every week before class to sync your local copy with the changes pushed to the remote repo
+4. `pull` every week before class to sync your local copy with the lates changes pushed to the repo
 
 	```
-	$ git pull origin master
+	$ git pull origin main
 	```
 
-5. subscribe to the repository to get notifications each time new changes are pushed to the repository
+5. "Watch" the repository to get notifications each time updates are pushed
