@@ -38,6 +38,27 @@ All of these are highly valued skills in the Data Science job market, but not al
 It is assumed that students have basic to intermediate knowledge of object-oriented programming - e.g [**R**](https://www.r-project.org/) or [__Python__](https://www.python.org) - including experience using it for data manipulation, visualizations, and model estimation. Some mathematics, statistics and algebra are also assumed.
 
 
+## Course Roadmap
+
+```
+outline\
+| -- week  1 : OVERVIEW: DS & DE PERSPECTIVES
+| -- week  2 : WORKSHOP - VERSION CONTROL & GitHub
+| -- week  3 : WORKSHOP - SETTING UP PROJECTS: DS & DE PERSPECTIVES
+| -- week  4 : WORKSHOP - CODING ETIQUETTE
+| -- week  5 : WORKSHOP - DATA PIPELINE IN PRACTICE
+| -- week  6 : MISSING DATA & DATA QUALITY
+| -- week  7 : MODEL DEPLOYMENT & VERSIONING,
+               WORKING ENVIRONMENTS (DEV, STAGING, PROD)
+| -- week  8 :       -- ACADEMIC HOLIDAY --
+| -- week  9 : WORKSHOP - INTERACTIVE WORKING SESSION
+| -- week 10 : EXPLANATION v PREDICTION
+| -- week 11 : MODEL EVALUATION
+| -- week 12 : DATA VISUALIZATION
+| -- week 13 : WORKFLOW COLLABORATION
+| -- week 14 : PRESENTING RESULTS
+```
+
 ## Course Resources
 
 There are no required textbooks for this course. The course will rely on a combination of curated reading materials, in-class workshops and take-home exercises that will leverage the following tools:
