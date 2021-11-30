@@ -1,4 +1,4 @@
-## WEEK 3 - Setting up Projects: Data Science & Data Engineering Perspectives
+## WEEK 3 - WORKSHOP: Setting up Projects: Data Science & Data Engineering Perspectives
 
 Data Science work in general must fulfill three aims to be useful for collaboration:
 
@@ -31,3 +31,10 @@ What is [**Apache Spark**](https://spark.apache.org)? - Many organizations have 
 * [Databricks notebook gallery](https://databricks.com/discover/notebook-gallery) featuring sample notebooks for a large range of use cases
 * [Apache Spark GitHub Repo](https://github.com/apache/spark)
 * [Research Papers](https://spark.apache.org/research.html)
+
+
+### Current Best Practices in Data Science
+
+We will cover many current best practices in the field throughout the course. But there is one which still stirs passions: __Agile__. Some swear by it, while others swear it's not s good idea for Data Science work.  (Not surprisingly, one of us is a big believer in the Agile way, but the other is a big believer in only implementing Agile-like principles when it makes sense). The jury is still out on __Agile__, but precisely for that reason you should understand what it is and what makes it attractive in the field. A few recommended posts will help you get there.
+
+Start by reading [__The Psychology of Agile__](https://medium.com/agile-in-learning/the-psychology-of-agile-87f92521a5ed) that summarizes the benefits that people perceive from the **Agile** way. Read also [__Stop Brainstorming and Start Sprinting__](https://medium.com/@jakek/stop-brainstorming-and-start-sprinting-16180839b43d) about what a **sprint** is, how it works, and why it's useful, but don't forget to read a complementary perspective in [__From Agile to Fragile: How to unravel your team in one sprint__](https://medium.com/agile-in-learning/from-agile-to-fragile-how-to-unravel-your-team-in-one-sprint-5e60e70a557) on how and where sprints can go wrong. Wrap up with [__MVP Paradox And Here’s How To Fix Your MVP Before Its Too Late!__](https://hackernoon.com/mvp-paradox-and-what-most-founders-need-to-be-aware-of-3a5f8c3acb76) on how to think about minimum viable products (**MVPs**).
