@@ -1,12 +1,14 @@
 ## WEEK 2 - WORKSHOP: Version Control & GitHub
 
-By now you should have installed both [git](https://git-scm.com/) and [Atom](https://atom.io/) in your computer. If you haven't already go ahead and get them here:
+#### In preparation for this week:
+1. join the course's **Slack** workspace. (you'll receive details through Canvas)
+2. get a [**GitHub**](https://github.com) account if you don't have one, and send your GitHub handle to our TA by **Slack** DM
+3. install [**git**](https://git-scm.com/downloads) and [**Atom**](https://atom.io/) in your computer
+4. read/listen/watch as much as you can from the annotated materials below
 
-* [git](https://git-scm.com/downloads)
-* [Atom](https://atom.io/)
 
 
-### Suggested materials
+---
 
 **git** and **GitHub** have done a great job of putting together easy-to-use resources. Be advised that neither git nor GitHub are very intuitive at first, so you may want to start with some of the resources listed below, and immediately get to play around with them.
 
