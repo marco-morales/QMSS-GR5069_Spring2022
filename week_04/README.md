@@ -1,5 +1,13 @@
 ## WEEK 4 - WORKSHOP: Coding Etiquette
 
+
+#### In preparation for this week:
+* read/listen/watch as much as you can from the annotated materials below
+
+---
+
+
+
 It is always delightful to start with the masters, and there is no larger master in this area than [Don Knuth](https://www.nytimes.com/2018/12/17/science/donald-knuth-computers-algorithms-programming.html). You may have heard his name because he's authored the still ongoing collection of books - [The Art of Computer Programming](https://www-cs-faculty.stanford.edu/~knuth/taocp.html). Let's begin this week by reading his 1974 ACM Turing Award Lecture - [__Computer Programming as an Art__](https://dl.acm.org/ft_gateway.cfm?id=1283929&type=pdf). An incredibly thoughtful and scholarly view of what coding is - and should be - all about:
 
 > computer programming is an art, because it applies accumulated knowledge to the world, because it requires skill and ingenuity, and especially because it produces objects of beauty.
@@ -18,9 +26,12 @@ With that background, we can jump directly to reading about coding best practice
 
 For more advanced hackers, you will benefit from a more systematic approach to improving your coding practices by reading a few more specialized pieces:
 
-* [__The Practice of Programming__](http://www.informit.com/store/practice-of-programming-9780201615869), per Jonathan's recommendation read the Preface, Chapters 1, 3, 5, 6, and the Epilogue
-* [__The Structure and Interpretation of Computer Programs__](https://mitpress.mit.edu/sicp/full-text/book/book.html) to better understand object-oriented languages, and
+* [__The Practice of Programming__](http://www.informit.com/store/practice-of-programming-9780201615869), read the Preface, Chapters 1, 3, 5, 6, and the Epilogue
+* [__The Structure and Interpretation of Computer Programs__](https://mitpress.mit.edu/sicp/full-text/book/book.html) to better understand object-oriented languages
 * [__The Pragmatic Programmer__](https://www.amazon.com/dp/020161622X/ref=cm_sw_su_dp?tag=devtools-20) with general advice on how to be a good programmer/coder
+* [SOLID design principles: the single responsibility explained](https://stackify.com/solid-design-principles/) as an introduction to a principle that would make your code easier to implement and prevents unexpected side effects from future changes
+* [**Design Patterns: Elements of Reusable Object-Oriented Software**](https://stackify.com/solid-design-principles/) with incredibly useful advice to craft code with an eye to increase flexibility and reusability of your code
+* [**Fluent Python: Clear, Concise and Effective Programmings**](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming-ebook-dp-B0131L3PW4/dp/B0131L3PW4/ref=mt_other?_encoding=UTF8&me=&qid=1617839864) to take you to the next level in your Python 3.x programming.
 
 ### Coding Style in Python
 
