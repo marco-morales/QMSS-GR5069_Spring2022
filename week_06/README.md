@@ -1,4 +1,4 @@
-## WEEK 6 - Missing Data & Data Quality
+## WEEK 6 - WORKSHOP: Missing Data & Data Quality
 
 
 #### In preparation for this week:
