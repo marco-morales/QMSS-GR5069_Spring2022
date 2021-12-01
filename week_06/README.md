@@ -1,5 +1,11 @@
 ## WEEK 6 - Missing Data & Data Quality
 
+
+#### In preparation for this week:
+* read/listen/watch as much as you can from the annotated materials below
+
+---
+
 __Missing Data__ is a topic that is seldom addressed explicitly in Data Science. There are a lot of assumptions that need to be made about your data so you can safely ignore missingness. And it is terribly dangerous not to unpack those assumptions clearly.  
 
 For the same reasons, our resources for missing data will be more academic than in previous weeks, and they might take a bit longer to go through but will be worth your while in your day-to-day as a Data Scientist.
@@ -25,4 +31,4 @@ Dealing with missing data is a very complicated affair. But there are two superb
 
 There are a lot of misconceptions about what can be done when your data explodes in _n_. A few years ago (2015), a group of very smart scholars delved into dissecting the opportunities and shortcomings of the Big Data revolution. While their focus was academic research, many of their insights are incredibly relevant for Data Science event today.
 
-While you may want to skim through the whole [issue](https://www.cambridge.org/core/journals/ps-political-science-and-politics/issue/F71EE285BFB51E27DCE368E94D5A0F8B), we'd suggest a couple of pieces to focus on. Nagler and Tucker's (2015) article - [__Drawing Inferences and Testing Theories with Big Data__](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/drawing-inferences-and-testing-theories-with-big-data/FBA853C140713FC45DB2ABCF91808B18) - where they address some of the identification issues we'll discuss this week. Also, Roc&iacute;o Titiunik's (2015) article - [__Can Big Data Solve the Fundamental Problem of Casual Inference?__](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/can-big-data-solve-the-fundamental-problem-of-causal-inference/A6737446D01B322A5EC9B8F138242B74) - where she explores an interesting difference between big data as growing in _n_ as different from big data that grows in _p_. 
+While you may want to skim through the whole [issue](https://www.cambridge.org/core/journals/ps-political-science-and-politics/issue/F71EE285BFB51E27DCE368E94D5A0F8B), we'd suggest a couple of pieces to focus on. Nagler and Tucker's (2015) article - [__Drawing Inferences and Testing Theories with Big Data__](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/drawing-inferences-and-testing-theories-with-big-data/FBA853C140713FC45DB2ABCF91808B18) - where they address some of the identification issues we'll discuss this week. Also, Roc&iacute;o Titiunik's (2015) article - [__Can Big Data Solve the Fundamental Problem of Casual Inference?__](https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/can-big-data-solve-the-fundamental-problem-of-causal-inference/A6737446D01B322A5EC9B8F138242B74) - where she explores an interesting difference between big data as growing in _n_ as different from big data that grows in _p_.
