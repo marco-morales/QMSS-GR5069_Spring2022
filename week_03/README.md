@@ -1,5 +1,10 @@
 ## WEEK 3 - WORKSHOP: Setting up Projects: Data Science & Data Engineering Perspectives
 
+#### In preparation for this week:
+* read/listen/watch as much as you can from the annotated materials below
+
+---
+
 Data Science work in general must fulfill three aims to be useful for collaboration:
 
 * **replicability**
