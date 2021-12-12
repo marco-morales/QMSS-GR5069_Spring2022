@@ -64,14 +64,14 @@ outline\
 There are no required textbooks for this course. The course will rely on a combination of curated reading materials, in-class workshops and take-home exercises that will leverage the following tools:
 * __Slack__
 * __GitHub / GitHub classroom__
-* __AWS Educate__
+* __AWS Academy Learner Labs__
 * __Databricks__
-
-Registered students will receive instructions to access __GitHub classroom__, __Slack__, __AWS Educate__, and __Databricks__.
 
 ## To actively participate on this course
 
 Make sure to have the latest versions of [__R__](https://www.r-project.org/)/[__RStudio__](https://www.rstudio.com/), and/or [__Anaconda__](https://www.anaconda.com/distribution/), as well as [__git__](https://git-scm.com/) installed on your computer. Sign up for a [__GitHub__](https://github.com) account if you don't have one already. [__Atom__](https://atom.io/) is  recommended to simplify your interaction with git and GitHub.
+
+Registered students will receive instructions to access __GitHub classroom__, __Slack__, __AWS Academy__, and __Databricks__.
 
 
 ### Accessing course materials in this repo
