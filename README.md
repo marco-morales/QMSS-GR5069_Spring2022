@@ -21,7 +21,7 @@ It contains curated reference materials, slides and sample code. You can find th
 
 In his now classic [Venn diagram](http://drewconway.com/zia/2013/3/26/the-data-science-venn-diagram), [Drew Conway](https://en.wikipedia.org/wiki/Drew_Conway) described **Data Science** as sitting at the intersection between **good hacking skills**, **math / statistics knowledge**, and **substantive expertise**. Standard quantitative training in the social sciences supplies a fluid combination of all three, but tailored to **understanding human behavior**, and to **explaining why things happen the way they do**. Social scientists are, thus, a particular kind of data scientist.
 
-This course is a collection of topics that fill very specific gaps identified over the years on what a social scientist should know at minimum when entering Data Science, and what a data scientist should be skilled at to add immediate value to their teams.
+This course is a collection of topics that fill very specific gaps identified over the years on what a social scientist should know at minimum when entering Data Science, and the skills and best practices a data scientist should know  to add immediate value to their teams.
 
 To do that, this course aims to:
 * teach processes and practices at the **intersection of Data Science and Data Engineering** that are central to the **data product cycle**. Data Scientists typically start being exposed to Data Engineering on the job. There's much to be gained from early exposure to concepts and practices in this field;
@@ -82,7 +82,7 @@ Registered students will receive instructions to access __GitHub classroom__, __
 2. from the command line, go to the directory where you want to clone this repo
 
 	```
-	$ cd <dir>
+	$ cd <your chosen directory>
 	```
 
 3. `clone` this repository to get a local copy in your machine
