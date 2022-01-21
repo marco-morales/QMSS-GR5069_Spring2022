@@ -1,8 +1,8 @@
 ## WEEK 2 - WORKSHOP: Version Control & GitHub
 
 #### In preparation for this week:
-1. join the course's **Slack** workspace. (you'll receive details through Canvas)
-2. get a [**GitHub**](https://github.com) account if you don't have one, and send your GitHub handle to our TA by **Slack** DM
+1. join the course's **Slack** workspace. (you'll receive an invite on your Columbia email)
+2. get a [**GitHub**](https://github.com) account if you don't have one, and add your handle on the Google sheet we've set up for that purpose.
 3. install [**git**](https://git-scm.com/downloads) and [**Atom**](https://atom.io/) in your computer
 4. read/listen/watch as much as you can from the annotated materials below
 
