@@ -2,6 +2,7 @@
 
 #### In preparation for this week:
 * read/listen/watch as much as you can from the annotated materials below
+* watch pre-recorded lectures on Canvas
 
 ---
 
