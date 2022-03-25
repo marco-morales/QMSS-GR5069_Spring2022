@@ -1,5 +1,11 @@
 ## WEEK 10 - Explanation vs Prediction
 
+
+#### In preparation for this week:
+* read/listen/watch as much as you can from the annotated materials below
+
+---
+
 The __difference between explanation and prediction__ is an often overlooked topic in Data Science based on a widespread belief that _all  work in Data Science is strictly predictive_. This has become such a commonly held misconception that many use prediction as the sole characteristic to define the field.
 
 It should be clear by now that the main skill of a Data Scientist is thinking critically about data, not treating every problem as a prediction problem. The reality is that no predictive work can consistently be good predictive work absent critical thinking about data. And understanding the difference between explanation and prediction is central to answering questions effectively and using data efficiently.
